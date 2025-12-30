@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+huggingface_hub 
+langchain-community
+python-dotenv
+langchain_huggingface
+transformers
+
+gitpython
