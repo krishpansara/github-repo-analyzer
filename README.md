@@ -1,4 +1,4 @@
-# 🔍 GitHub Repo Analyzer – AI Agent Based Code Understanding System
+# 🔍 GitHub Repo Analyzer - AI Based Repository Review & Summarization Tool (GitMate)
 
 
 ## 📌 Project Overview
